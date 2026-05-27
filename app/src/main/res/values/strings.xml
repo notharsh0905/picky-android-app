@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Picky</string>
+
+    <string name="facebook_app_id">1194841902601737</string>
+
+    <string name="fb_login_protocol_scheme">fb1194841902601737</string>
+
+    <string name="facebook_client_token">60b663a46464b3b214b62d58a0024103</string>
+</resources>

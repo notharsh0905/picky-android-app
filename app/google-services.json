@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "200441658918",
+    "project_id": "picky-ed7b6",
+    "storage_bucket": "picky-ed7b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200441658918:android:5f61ba334bceb8c3f0f0e7",
+        "android_client_info": {
+          "package_name": "com.example.picky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200441658918-s8pnmp5df972rtq5mg92e17118k2kuct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.picky",
+            "certificate_hash": "024658a892fd048871b1f9612ef13a31efb4b17a"
+          }
+        },
+        {
+          "client_id": "200441658918-bgtk7jjgkbnqc32qlrdrvv7ngqj5ovls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1P-9ttpmIjFylFtnewnalP-4GQkKP0o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200441658918-bgtk7jjgkbnqc32qlrdrvv7ngqj5ovls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
